@@ -237,6 +237,15 @@ Please read our [Contributing Guidelines](./CONTRIBUTING.md) before submitting a
 
 </details>
 
+<details> 
+  <summary> <h2>Projects 05 - ⚙️ Anomaly Detection</h2> </summary>
+
+  | Project Title | Description | Code | Created | Difficulty | Status |
+  |---|---|---|---|---|---|
+  | [**🌐 1 -GitHub Commit Anomaly Detector**](https://github.com/Pr3mSiva/ML-Learning/tree/main/Github_commit_anomaly_detector/Github_commit_anomaly_detector) | Generate customized QR codes easily using Python's `qrcode` library. | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/QR_Code_Generation_using_Python.ipynb) | Saad Abbasi | 🟢 Beginner | ☑ Completed |
+
+</details>
+
 </details>
 
 <details> 
